@@ -30,4 +30,5 @@
   schema:mainEntity :me ;
   foaf:primaryTopic :me .
 
+## Turtle End ##
 ```
