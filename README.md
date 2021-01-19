@@ -18,12 +18,12 @@
 <> foaf:primaryTopic :me .
 
 :me a schema:Person, foaf:Person ;
-  schema:name "Bart Hanssens" ;
+  schema:name "Emeka Azuka Okoye" ;
   schema:mainEntityOf <>, <https://ng.linkedin.com/in/emekaokoye#>, <https://twitter.com/emekaokoye#> ;
   owl:sameAs <https://ng.linkedin.com/in/emekaokoye#this>, <https://twitter.com/emekaokoye#this> .
   
 :this a schema:WebPage, foaf:Document ;
-  rdfs:name "Emeka Okoye' Profile Document"@en ;
+  rdfs:name "Emeka Azuka Okoye' Profile Document"@en ;
   dcterms:created "2021-01-18"^^xsd:dateTime ;
   dcterms:creator :me ;
   schema:mainEntity :me ;
